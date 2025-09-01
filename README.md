@@ -1,4 +1,4 @@
-# SmartEdu_
+# EduVisual
 An AI-powered learning assistant that explains topics in voice and generates images for better understanding.
 Features
 - 🗣️ Converts topic explanations into natural-sounding speech.  
